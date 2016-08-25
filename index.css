@@ -1,4 +1,11 @@
+#img_source {
+    opacity:1;
+    transition: opacity 1s; 
+}
 
+#img_source.fadeOut {
+    opacity:0;
+}
 
 h1 {
 	text-align: center;
