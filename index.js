@@ -9,7 +9,7 @@ function slideShow() {
     setTimeout(function() {
         source.src = imgArry[index];
         source.className = "";
-    },1000);
+    },1300);
     index++;
     if (index == imgArry.length) { index = 0; }
     setTimeout(slideShow, 4000);
