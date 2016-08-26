@@ -1,10 +1,10 @@
 #img_source {
     opacity:1;
-    transition: opacity 1s; 
+    transition: opacity 2s; 
 }
 
 #img_source.fadeOut {
-    opacity:0;
+    opacity: 0;
 }
 
 h1 {

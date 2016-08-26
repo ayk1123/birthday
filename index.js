@@ -9,10 +9,10 @@ function slideShow() {
     setTimeout(function() {
         source.src = imgArry[index];
         source.className = "";
-    },1300);
+    },2000);
     index++;
     if (index == imgArry.length) { index = 0; }
-    setTimeout(slideShow, 4000);
+    setTimeout(slideShow, 6000);
 }
 
 slideShow();
