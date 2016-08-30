@@ -1,6 +1,6 @@
 #img_source {
     opacity: 1;
-    transition: opacity 2s; 
+    transition: opacity 2.5s; 
 }
 
 #img_source.fadeOut {
