@@ -1,6 +1,6 @@
 // -----------------------Index Page --------------------
 // source arry, changes every 3 seconds
-var imgArry = ["imgs/1.jpg", "imgs/2.jpg", "imgs/3.jpg", "imgs/4.jpg", "imgs/5.jpg", "imgs/6.jpg", "imgs/7.jpg"]
+var imgArry = ["imgs/1.jpg", "http://placehold.it/800x550", "http://placehold.it/1000x400", "http://placehold.it/700x500", "http://placehold.it/800x450"]
 var source = document.getElementById("img_source")
 var index = 0
 
