@@ -1,6 +1,6 @@
 #img_source {
     opacity: 1;
-    transition: opacity 2s; 
+    transition: opacity 2.5s; 
 }
 
 #img_source.fadeOut {
@@ -28,19 +28,14 @@ img {
 }
 
 #text_container {
-	width: 60%;
+	width: 45%;
 	margin: 50px auto;
 }
 
-h2 {
-	text-align: center;
-	color: grey;
-	font-family: 'Tillana', cursive;
-}
 
 p {
 	margin-top: 40px;
-	text-align: center;
+	text-align: left;
 	color: grey;
 	font-family: 'Tillana', cursive;
 }
